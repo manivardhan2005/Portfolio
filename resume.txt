@@ -1,0 +1,63 @@
+WOONNA MANI VARDHAN
+BTech Student in Computer Science and Engineering
+diosamode94@gmail.com
+github.com/manivardhan23032005
+Raipur
+Education
+National Institute of Technology, Raipur
+Raipur
+BTech. in Computer Science and Engineering | CGPA:6.8
+Sri Venkateswara junior college 
+Visakhapatnam
+Intermediate 
+Key Achievements
+Secured 98.8 percentile in Jee 
+mains
+200+ problems on DSA solved in 
+Leetcode and GFG
+Strengths
+Technical Skills
+Technical Skills: C++, Python, Data 
+Structures and Algorithms, Object-
+Oriented Programming, HTML5, 
+CSS, Operating Systems
+Soft Skills
+Soft Skills: Communication Skills, 
+Teamwork, Leadership, Time 
+Management
+Projects
+Weather tracking app
+A weather tracking app that provides real-time weather updates
+Developed a weather app using HTML, CSS, JS, and OpenWeatherMap API for real-time weather updates
+Integrated interactive features to display current weather conditions, temperature, humidity and wind speed
+Designed an intuitive user interface with user-friendly navigation and clear data visualization
+https://github.com/manivardhan23032005/wheatherreport/tree/main
+Todolist
+A functional to-do list app for task management
+Utilized HTML, CSS, and JavaScript to create a functional to-do list app, allowing users to add, delete, and manage tasks
+Incorporated JavaScript to handle dynamic interactions, such as adding new tasks, marking tasks as completed, and removing 
+tasks from the list
+Included images like plus.png, multiply.png, and check.png to represent actions (add, delete, complete), and styled the 
+application using CSS for an improved user experience
+https://github.com/manivardhan23032005/todolist
+Position of Responsibility
+Sanskriti - The Cultural Committee
+Assisted in organizing and executing large-scale college fest events as part of the event management team.
+Coordinated logistics, vendor communication, and team schedules to ensure smooth event operations.
+Coding Profile
+Leetcode : https://leetcode.com/u/manivardhanwoo/
+Codechef:https://www.codechef.com/users/manivardhan114
+www.enhancv.com
+
+Powered by
+•
+•
+•
+•
+•
+•
+•
+•
+•
+k
+

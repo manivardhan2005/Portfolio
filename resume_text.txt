@@ -1,0 +1,36 @@
+MANIVARDHAN WOONNA
+♂phone+91-8309834564 /envel⌢pemanivardhanwoonna@gmail.com /linkedinhttps://www.linkedin.com/in/manivardhan-woonna-0412362a5/ /githubgithub.com/manivardhan2005
+Education
+National Institute of Technology Raipur, Chhattisgarh
+B.T ech in Computer Science and Engineering CGP A: 6.9
+Sri Venkeswara Junior College
+Maths, Physics, Chemistry
+Skills
+• Languages: Python, C++, SQL
+• Core Concepts: Data Structures & Algorithms (DSA), OOP , DBMS
+• Machine Learning: NLP , Transformers (Hugging Face), Scikit-learn
+• Data Processing: NumPy, Pandas, Matplotlib
+• Databases: MySQL, PostgreSQL, MongoDB
+• Developer Tools: Git, GitHub,Google Antigravity, Google Colab
+Projects
+/githubCarRentalApp
+• Developed and deployed a secure car rental platform using React, Node.js, and MongoDB.
+• Designed RESTful APIs with JWT authentication and role-based access for car owners and customers.
+• Utilized Postman for endpoint testing and debugging.
+• Integrated ImageKit.io for media storage and management and hosted on Vercel with fully responsive design across devices.
+/githubWeather Tracking App
+• Designed and implemented a weather web app using JavaScript, HTML and CSS.
+• Integrated browser geolocation to deliver personalized local weather data.
+• Enabled manual city search for flexible and accurate weather updates.
+• Launched on GitHub Pages, ensuring responsive and user-friendly design.
+Achievements
+• Completed certification in Matering AI and Chatgpt on Geeks for geeks.
+• Achieved NPTEL Certification in Data Science using Python .
+• Solved over 400+ problems on LeetCode, strengthening skills in data structures and algorithms.
+• Secured top 1.5 percentile in Jee Mains.
+Leadership & Responsibility
+Core Coordinator — Eclectika, NIT Raipur
+• Organized NIT Raipur’s cultural festEclectika, managing multiple event teams and logistics.
+• Coordinated with sponsors and ensured smooth execution of fest activities.
+Online Profiles
+• LeetCode Profile
