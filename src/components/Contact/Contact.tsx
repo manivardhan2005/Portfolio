@@ -127,7 +127,7 @@ export default function Contact() {
             <a href="https://github.com/manivardhan2005" target="_blank" rel="noopener noreferrer" className={styles.iconLink}>
               <GithubIcon size={40} />
             </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" className={styles.iconLink}>
+            <a href="https://www.linkedin.com/in/manivardhan-woonna/" target="_blank" rel="noopener noreferrer" className={styles.iconLink}>
               <LinkedinIcon size={40} />
             </a>
           </div>
