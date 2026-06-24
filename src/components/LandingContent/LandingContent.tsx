@@ -85,7 +85,7 @@ export default function LandingContent() {
         </p>
         
         <a 
-          href="/Resume.pdf" 
+          href="/resume.pdf" 
           target="_blank" 
           rel="noopener noreferrer" 
           className={styles.resumeButton}
