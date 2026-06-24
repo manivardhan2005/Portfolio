@@ -66,24 +66,40 @@ export default function Contact() {
     return () => ctx.revert();
   }, []);
 
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const form = e.currentTarget;
     const name = (form.elements.namedItem("name") as HTMLInputElement).value;
     const email = (form.elements.namedItem("email") as HTMLInputElement).value;
     const message = (form.elements.namedItem("message") as HTMLTextAreaElement).value;
 
-    const subject = encodeURIComponent(`New Transmission from ${name}`);
-    const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`);
-
-    window.location.href = `mailto:manivardhanwoonna@gmail.com?subject=${subject}&body=${body}`;
-    setIsSent(true);
-    
-    // Reset form state after a few seconds
-    setTimeout(() => {
-      setIsSent(false);
-      form.reset();
-    }, 5000);
+    try {
+      await fetch("https://formsubmit.co/ajax/manivardhanwoonna@gmail.com", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          name,
+          email,
+          message,
+          _subject: `New Portfolio Message from ${name}`,
+          _template: "box", // Beautiful email template
+        }),
+      });
+      
+      setIsSent(true);
+      
+      // Reset form state after a few seconds
+      setTimeout(() => {
+        setIsSent(false);
+        form.reset();
+      }, 5000);
+    } catch (error) {
+      console.error("Error sending message:", error);
+      alert("Failed to send message. Please try again or email me directly.");
+    }
   };
 
   return (
